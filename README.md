@@ -4,6 +4,8 @@ Aplicación Android para la **gestión y trazabilidad de inventario de Kaiju** (
 
 Kaiju controlaba su stock con planillas y registros manuales, lo que generaba diferencias entre el stock registrado y el real, olvidos al registrar entradas o salidas y poca visibilidad de los productos por reponer. Esta app reemplaza ese proceso: cada producto tiene su stock, su stock mínimo y un historial de movimientos, y la app avisa cuando algo necesita reposición.
 
+**Integrante:** Alejandro Naranjo · Sección DSY1105 · Grupo 13
+
 ## Funcionalidades implementadas
 
 - **Panel de inicio**: total de productos, unidades y valor del inventario (contadores animados), productos que requieren reposición y ranking de más vendidos.
@@ -64,7 +66,3 @@ Tests unitarios de las validaciones:
 ```bash
 ./gradlew testDebugUnitTest
 ```
-
-## Planificación
-
-Las tareas del proyecto están en [`docs/TRELLO.md`](docs/TRELLO.md).
