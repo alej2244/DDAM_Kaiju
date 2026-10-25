@@ -8,10 +8,9 @@ Kaiju controlaba su stock con planillas y registros manuales, lo que generaba di
 
 | Nombre | Rol principal |
 |---|---|
-| _Nombre Apellido 1_ | Persistencia local, repositorio, movimientos |
-| _Nombre Apellido 2_ | Interfaz, formularios, navegación, recursos nativos |
+| Alejandro Naranjo | Persistencia local, repositorio, movimientos, interfaz, formularios, navegación, recursos nativos |
 
-Equipo N° _XX_ · Sección _XXX_
+Equipo Nº 16 · Sección DSY1105
 
 ## Funcionalidades implementadas
 
